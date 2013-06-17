@@ -1,4 +1,4 @@
-(defproject cc.qbits/grease "0.1.0"
+(defproject cc.qbits/grease "0.2.0"
   :description "Lubricate all the things"
   :url "https://github.com/mpenet/grease"
   :license {:name "Eclipse Public License"

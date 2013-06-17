@@ -10,7 +10,7 @@
 Provides faster non thread-safe alternatives to common Classes such as
 ByteArrayIOStream, BufferedIOStream.
 
-Code taken from various repositories such as Apache Cassandra.
+Code taken from various repositories such as Apache Cassandra and ElasticSearch.
 
 ## Installation
 
@@ -19,7 +19,7 @@ grease is [available on Clojars](https://clojars.org/cc.qbits/grease).
 Add this to your dependencies:
 
 ```clojure
-[cc.qbits/grease "0.1.0"]
+[cc.qbits/grease "0.2.0"]
 ```
 
 Please check the
