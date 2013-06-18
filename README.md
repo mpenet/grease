@@ -7,8 +7,19 @@
 <!-- and you can also consult the -->
 <!-- [codox generated documentation](http://mpenet.github.com/grease/#docs). -->
 
-Provides faster non thread-safe alternatives to common Classes such as
-ByteArrayIOStream, BufferedIOStream.
+Provides faster non thread-safe alternatives to common Classes:
+
+`ByteArrayInputStream`
+`ByteArrayOuputStream`
+
+`BufferedInputStream`
+`BufferedOutputStream`
+
+`CharArrayReader`
+`CharArrayWriter`
+
+`StringReader`
+
 
 Code taken from various repositories such as Apache Cassandra and ElasticSearch.
 
