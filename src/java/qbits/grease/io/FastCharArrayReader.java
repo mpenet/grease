@@ -17,7 +17,7 @@
  * under the License.
  */
 
-package cc.qbits.grease.io;
+package qbits.grease.io;
 
 import java.io.IOException;
 import java.io.Reader;
