@@ -30,7 +30,7 @@ grease is [available on Clojars](https://clojars.org/cc.qbits/grease).
 Add this to your dependencies:
 
 ```clojure
-[cc.qbits/grease "0.2.1"]
+[cc.qbits/grease "0.2.2"]
 ```
 
 Please check the
